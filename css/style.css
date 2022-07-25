@@ -117,3 +117,12 @@ p {
 .col-icon {
   font-size: 32px;
 }
+
+.link-name {
+  color: rgb(7, 184, 244);
+  text-decoration: none;
+}
+
+/* .name {
+  color: #000;
+} */
